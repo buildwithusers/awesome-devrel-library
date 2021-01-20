@@ -3,6 +3,9 @@
 ## KPIs &amp; Metrics
 - https://www.codemotion.com/magazine/dev-hub/community-manager/devrel-success/
 - https://devrel.net/strategy-and-metrics/metrics-discussion-panel
+* [DevRel Metrics with Mary Thengvall](https://podcast.chaoss.community/18)
+* [a16z Podcast: Measuring & Managing Community Orgs, Developer Relations and Beyond](https://a16z.com/2020/08/30/community-developer-relations-measurement-leadership-alignment-best-practices-success/)
+* [DevRel Qualified Leads: Repurposing a Common Business Metric to Prove Value](https://www.marythengvall.com/blog/2019/12/14/devrel-qualified-leads-repurposing-a-common-business-metrics-to-prove-value)
 
 ## Technical Content (Documentation)
 - ! https://youtu.be/zPj8krIJNm4
@@ -22,6 +25,7 @@
 - https://devrel.net/community/your-first-100-developers
 
 ## Advocacy / Nurturing Fans
+* [Oh SNAP! A Community Incentivization Framework](https://hollyfirestone.medium.com/oh-snap-d0dfad89e79f)
 
 ## Leadership
 - https://dev.to/lakatos88/creating-a-devrel-culture-9db
@@ -33,7 +37,6 @@
 ## Developer Experience
 - https://devrel.net/developer-experience/measuring-your-developer-experience-journey
 - ! https://www.youtube.com/watch?v=765wLWVcyS0
-
 
 ## Product Management
 
@@ -52,3 +55,6 @@
 
 ## Tool Setup
 - https://devrel.net/dev-rel/a-tour-of-developer-relations-tools
+
+## Community Management
+* [Developer personas—driven by motivation](https://devocate.com/blog/developer-intel/developer-personas-driven-by-motivation)
