@@ -6,4 +6,4 @@ Tools are not part of this list, see [this project](https://github.com/devrelcol
 
 ## Topics
 
-- [Technical Content (Docs)](https://github.com/buildwithusers/awesome-devrel-library/blob/main/topics/technical-content-docs.md)
+- [🔖 Technical Content (Docs)](https://github.com/buildwithusers/awesome-devrel-library/blob/main/topics/technical-content-docs.md)
