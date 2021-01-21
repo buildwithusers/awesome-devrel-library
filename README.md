@@ -1,4 +1,4 @@
-![logo](static/devrel-library-header.jpg)
+![logo](static/devrel-library-header.svg)
 
 # Awesome DevRel Library [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
