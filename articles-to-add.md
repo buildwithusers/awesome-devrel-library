@@ -6,6 +6,7 @@
 * [DevRel Metrics with Mary Thengvall](https://podcast.chaoss.community/18)
 * [a16z Podcast: Measuring & Managing Community Orgs, Developer Relations and Beyond](https://a16z.com/2020/08/30/community-developer-relations-measurement-leadership-alignment-best-practices-success/)
 * [DevRel Qualified Leads: Repurposing a Common Business Metric to Prove Value](https://www.marythengvall.com/blog/2019/12/14/devrel-qualified-leads-repurposing-a-common-business-metrics-to-prove-value)
+- https://openviewpartners.com/blog/measuring-the-impact-of-your-developer-relations-team/
 
 ## Technical Content (Documentation)
 - ! https://youtu.be/zPj8krIJNm4
