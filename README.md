@@ -8,7 +8,7 @@ Tools are not part of this list, see [this project](https://github.com/devrelcol
 
 ## Topics
 
-- [📊 KPIs & Metrics](topics/technical-content-docs.md)
+- [📊 KPIs & Metrics](topics/kpis-and-metrics.md)
 - [🔖 Technical Content (Docs)](topics/technical-content-docs.md)
 
 ## Adding links
