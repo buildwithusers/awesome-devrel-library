@@ -12,14 +12,22 @@
 - https://devrel.net/developer-experience/docs-advocacy-is-dev-advocacy
 - https://devrel.net/developer-experience/principles-for-developer-documentation
 
-## Content Creation
+## Content Strategy
 - https://www.stephaniemorillo.co/post/content-strategy-for-devrel-teams-a-primer
+- https://www.andyjohns.co/posts/flywheels-and-how-to-create-content-communities
 
 ## Community Engagement
 
 ## Community Strategy
 - https://devrel.net/community/does-your-developer-community-need-a-forum
 - https://devrel.net/community/roots-for-advocates-applying-community-organising-principles-to-developer-relations
+- https://theprokit.com/posts/bailey-richardson-building-communities-that-get-together-and-stay-together/
+
+## Starting an Online Community
+- ! https://firstround.com/review/from-instant-pot-to-instagram-critical-lessons-in-startup-community-building/
+- ! https://jayclouse.com/how-to-build-an-online-community/
+- https://the.community.club/ben/ben-s-ten-tips-for-building-a-community-from-ground-zero-3m4f
+- https://medium.com/swlh/community-building-101-5078e0166df5<Paste>
 
 ## Community Growth
 - https://devrel.net/community/your-first-100-developers
@@ -34,11 +42,15 @@
 
 ## Online Events
 
+## Offline Events
+- https://devrel.net/community/creating-high-quality-communities
+
 ## Developer Experience
 - https://devrel.net/developer-experience/measuring-your-developer-experience-journey
 - ! https://www.youtube.com/watch?v=765wLWVcyS0
 
 ## Product Management
+- https://the.community.club/brianoblinger/activate-your-community-to-build-better-products-and-ignite-adoption-och
 
 ## Community Support
 - https://devocate.com/blog/deflect-support-impactful-open-source-community-goal/
