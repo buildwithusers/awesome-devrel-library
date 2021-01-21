@@ -8,11 +8,6 @@
 * [DevRel Qualified Leads: Repurposing a Common Business Metric to Prove Value](https://www.marythengvall.com/blog/2019/12/14/devrel-qualified-leads-repurposing-a-common-business-metrics-to-prove-value)
 - https://openviewpartners.com/blog/measuring-the-impact-of-your-developer-relations-team/
 
-## Technical Content (Documentation)
-- ! https://youtu.be/zPj8krIJNm4
-- https://devrel.net/developer-experience/docs-advocacy-is-dev-advocacy
-- https://devrel.net/developer-experience/principles-for-developer-documentation
-
 ## Content Strategy
 - https://www.stephaniemorillo.co/post/content-strategy-for-devrel-teams-a-primer
 - https://www.andyjohns.co/posts/flywheels-and-how-to-create-content-communities
