@@ -1,4 +1,4 @@
 # 💻 Content Strategy [WIP]
 
-- 📃 [Content Strategy for DevRel Teams: A Primer](https://www.stephaniemorillo.co/post/content-strategy-for-devrel-teams-a-primer) (7 min) - by Stephanie Morillo.
-- 📃 [Flywheels and How to Create Content Communities](https://www.andyjohns.co/posts/flywheels-and-how-to-create-content-communities) (40 min) - by Andy Johns.
+- 📃 [Content Strategy for DevRel Teams: A Primer](https://www.stephaniemorillo.co/post/content-strategy-for-devrel-teams-a-primer) (7 min) - by Stephanie Morillo. Takeaway: Your goal as a developer advocate is NOT to produce more content than a colleague or a competitor. You goal is to get the right content to the right user at the right time. Content is about your end user’s needs first and foremost.
+- 📃 [Flywheels and How to Create Content Communities](https://www.andyjohns.co/posts/flywheels-and-how-to-create-content-communities) (40 min) - by Andy Johns. Takeaway: The biggest online communities are those that artfully construct a series of flywheels, including a basic flywheel for acquiring users, a consumption flywheel for ratcheting up content consumption, and a creation flywheel for leaning on users to create a vast library of content for you.
