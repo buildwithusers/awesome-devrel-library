@@ -1,7 +1,7 @@
-# 🎬 Starting an Online Community [WIP]
+# 🎬 Starting an Online Community
 
-- 📃 [From Instant Pot to Instagram: Critical Lessons in Startup Community Building](https://firstround.com/review/from-instant-pot-to-instagram-critical-lessons-in-startup-community-building/) (35 min) - by First Round and Bailey Richardson.
-- 📃 [How to Build an Online Community (and Why I’m All in on Circle)](https://jayclouse.com/how-to-build-an-online-community/) (44 min) - by Jay Clouse.
-- 📃 [Ben's Ten Tips for Building a Community from the Ground Up](https://the.community.club/ben/ben-s-ten-tips-for-building-a-community-from-ground-zero-3m4f) (4 min) - by Ben Halpern.
-- 📃 [Community Building 101](https://medium.com/swlh/community-building-101-5078e0166df5) (9 min) - by Christina Garnett.
-- 📹 [Your First 100 Developers](https://devrel.net/community/your-first-100-developers) (18 min) - by Sydney Lai and Sue Smith.
+- 📃 [From Instant Pot to Instagram: Critical Lessons in Startup Community Building](https://firstround.com/review/from-instant-pot-to-instagram-critical-lessons-in-startup-community-building/) (35 min) - by First Round and Bailey Richardson. Takeaways: Explains why community building is important for startups, that you need to strategize before committing for the long term, and examples on how to do it in a unique way that works for your business.
+- 📃 [How to Build an Online Community (and Why I’m All in on Circle)](https://jayclouse.com/how-to-build-an-online-community/) (44 min) - by Jay Clouse. Takeaways: Specific thoughts around online community necessities and tools. Opinionated towards one solution but explains the base facets, pitfalls and differences with offline gathering very well.
+- 📃 [Ben's Ten Tips for Building a Community from the Ground Up](https://the.community.club/ben/ben-s-ten-tips-for-building-a-community-from-ground-zero-3m4f) (4 min) - by Ben Halpern. Takeways: Great 'don't forgets' when building community; think about it holistically, make it fun and easy to engage, remove friction, use the full power of your platform.
+- 📃 [Community Building 101](https://medium.com/swlh/community-building-101-5078e0166df5) (9 min) - by Christina Garnett. Takeaways: Great summary of the most important questions when starting a community: why, who, what, when, where, how. It stipulates the importance of long-term thinking and making plans.
+- 📹 [Your First 100 Developers](https://devrel.net/community/your-first-100-developers) (18 min) - by Sydney Lai and Sue Smith. Takeaways: Finding your first developers starts with understanding which devs to target exactly. It's also important to understand dynamics like the 1% rule and following the mantra "do things that don't scale".
