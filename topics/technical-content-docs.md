@@ -1,6 +1,7 @@
 # 🔖 Technical Content (Docs)
 
+- 📃 [A Brief Introduction to Technical Writing](https://www.stephaniemorillo.co/post/a-brief-introduction-to-technical-writing) (4 min) - by Stephanie Morillo. Takeaway: Quick explainer about technical writing and how it differs from other forms of writing.
 - 📹 [Documentation as Practical Empathy](https://youtu.be/zPj8krIJNm4) (18min) - by Erin McKean. Takeaway: Put the reader first and explain by example. Be ruthless and remove anything that distracts from making the next step. Put yourself in the reader's shoes.
 - 📃 [Principles for Developer Documentation](https://devrel.net/developer-experience/principles-for-developer-documentation) (5min) - by Matthew Revell. Takeaway: Checklist for better documentation, such as playing with visualizations, structure, skimmability.
 - 📹 [Docs Advocacy is Dev Advocacy](https://www.youtube.com/watch?v=Cerr5wb1wME&t=1s) (24min) - by Erin McKean. Takeaway: As a developer advocate, you’re demonstrating much more than just how to use your product, framework, or service. You’re modeling *how to be a developer* as well.
-
+- 📃 [API Documentation Maturity — How Do Your Docs Stack Up?](https://medium.com/swlh/api-documentation-maturity-how-do-your-docs-stack-up-55ed4e329c94) (6 min) - by Erikka Innes. Takeaway: If you're wondering what it takes to go from zero to world class documentation, check out this documentation maturity model. It covers every stage of documentation development with a focus on what kind of content you will have available.
