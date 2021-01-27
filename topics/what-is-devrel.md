@@ -1,4 +1,4 @@
-# 🥑 What is DevRel / Subtypes
+# 🥑 What is DevRel
 
 - 📃 [What is DevRel?](https://blog.vanillaforums.com/developer-relations-what-is-devrel) (6 min) - by Mary Thengvall. Takeaway: Developer Relations is, at its core, community management for a technical audience. DevRel professionals act as a liaison between their company and these communities, communicating feedback, advocating for the community’s needs, and making their experience with our product as smooth as possible.
 - 📃 [A Developer Relations Bill of Rights](https://medium.com/glitch/a-developer-relations-bill-of-rights-21381920e273) (3 min) - by Anil Dash. Takeaway: Despite DevRel being so important, most companies fundamentally do not show DevRel the respect it deserves. Every person who does the work of Developer Relations deserves to be supported by an environment which follows a set of 10 principles: the DevRel Bill of Rights.
